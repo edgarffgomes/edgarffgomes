@@ -1,9 +1,9 @@
- ## Olá, eu sou o Edgar Gomes
+ ## Welcome to my github. I'm Edgar Gomes
 
-- 🔭  Atualmente, estou focado em me aprimorar como Desenvolvedor Front-End
-- 🌱 Estudando React.js
-- 💼 Procurando por oportunidades no mercado de TI.
-- 👦🏿 Pronomes: Ele/Dele
+- 🔭  I'm contantly studying to become a better developer.
+- 🌱 Right now, i'm focused on my Front-End skills
+- 💼 Actively looking for job positions
+- 👦🏿 Pronouns: He/Him/His
 <div align="center">
   <a href="https://github.com/edgarffgomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgarffgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
